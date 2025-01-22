@@ -1,1 +1,1 @@
-# Quiz-Play
+Developed an interactive quiz app using HTML, CSS, JavaScript, and PHP, with XAMPP as the backend server. The app features dynamic question rendering, user score tracking, and a seamless user interface. Designed for performance and scalability, it showcases strong full-stack development skills and a passion for creating engaging web applications.
